@@ -1,8 +1,6 @@
 # hello-world
 #entendiendochinodesdecero
 
-
-
 Tal vez no era pensar, la fórmula, el secreto.
 sino amarse y amar, perdida, ingenuamente.
 
